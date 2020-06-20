@@ -1,0 +1,17 @@
+{
+  "name": "appimgeditor",
+  "version": "1.0.0",
+  "description": "Editor de imagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.25.0"
+  },
+  "devDependencies": {
+    "compress-images": "^1.6.0"
+  }
+}
